@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ana Filipa Souza! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h2> Hi, I'm Ana Filipa Souza! <img src="http://www.yougowords.com/images/loading-cat.gif" width="50"> </h2>
 <img align='right' src="https://raw.githubusercontent.com/anafilipasouza/anafilipasouza/main/avataaars.svg" width="230">
 
 
